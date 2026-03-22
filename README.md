@@ -4,7 +4,7 @@ Delivery performance analysis of Zomato's e-commerce data, India's Top 1 deliver
 actionable business insights on maintaining high-quality delivery performance. 
 
 ## Analysis Overview 
-- Zomato is India'a Top 1 delivery service company, which provides a variety of food services such as menu information, user recommendations, food delivery, and table reservations, etc. The analysis of delivery ratings of Zomato data aims to evaluate riders' performance on deliveries under different circumstances, such as weather, traffic levels, or area types, to create statistical or ML models to predict delivery ratings, and provide actionable business insights for riders' delivery performance. 
+- Zomato is India's Top 1 delivery service company, which provides a variety of food services such as menu information, user recommendations, food delivery, and table reservations, etc. The analysis of delivery ratings of Zomato data aims to evaluate riders' performance on deliveries under different circumstances, such as weather, traffic levels, or area types, to create statistical or ML models to predict delivery ratings, and provide actionable business insights for riders' delivery performance. 
 
 ## Dataset 
 - The analysis uses the **Zomato Delivery Operations Analytics Dataset** ([Kaggle](https://https://www.kaggle.com/datasets/saurabhbadole/zomato-delivery-operations-analytics-dataset))
