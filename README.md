@@ -47,11 +47,10 @@ actionable business insights on maintaining high-quality delivery performance.
 - Based on the linear model to predict riders' ratings on sunny and low traffic conditions, the deliveries made under 30-minute period have 2.26 higher ratings than the deliveries made over 30-minute period.
 - For every 1-minute increase after 30-minute period, the rider ratings begin to drop by 0.09, with an expected rider rating of 3.19 at a 37-minute delivery time.  
 - If a rider aims for 4.5 ratings, riders are expected to keep the delivery time of about 22 minutes on sunny and low traffic conditions.
-- 
+  
 ## Key Recommendations 
 - If the delivery time of a rider can be improved from 37 minutes to 30 minutes, which is about 23% improvement, we can expect an improvement in riders' ratings from 3.19 to 3.8, which is about 16% improvement.
 
 - If a rider aims for 4.5 ratings, riders are expected to keep the delivery time of about 22 minutes on sunny and low traffic conditions.
 
-## Author 
 ## EDA
