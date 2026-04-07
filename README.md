@@ -58,3 +58,7 @@ actionable business insights on maintaining high-quality delivery performance.
 <img width="576" height="500" alt="output_44_0" src="https://github.com/user-attachments/assets/7d503b63-33a1-47df-8304-4979f4002b45" />
 <img width="1169" height="322" alt="output_54_0" src="https://github.com/user-attachments/assets/36fb4ec5-b345-45dc-932f-0e3a1f39ac40" />
 <img width="563" height="461" alt="output_62_0" src="https://github.com/user-attachments/assets/ea9c1f9b-6a80-4340-88fc-60b507244a67" />
+<img width="555" height="520" alt="output_72_0" src="https://github.com/user-attachments/assets/5be4e6cd-e6f5-45a5-852e-f5ba3f701ff6" />
+<img width="573" height="520" alt="output_79_0" src="https://github.com/user-attachments/assets/dfb20abc-62e3-47d7-b904-69d16d2ccbf7" />
+<img width="588" height="453" alt="output_100_1" src="https://github.com/user-attachments/assets/504ebcd6-4e1a-4d63-8036-7d9542ed918a" />
+<img width="576" height="453" alt="output_126_1" src="https://github.com/user-attachments/assets/d3a61163-a0d3-4198-87f9-7696fe744af1" />
