@@ -54,3 +54,7 @@ actionable business insights on maintaining high-quality delivery performance.
 - If a rider aims for 4.5 ratings, riders are expected to keep the delivery time of about 22 minutes on sunny and low traffic conditions.
 
 ## EDA
+<img width="1171" height="472" alt="output_15_0" src="https://github.com/user-attachments/assets/bbbec996-6199-45c6-abf9-ed044e735da1" />
+<img width="576" height="500" alt="output_44_0" src="https://github.com/user-attachments/assets/7d503b63-33a1-47df-8304-4979f4002b45" />
+<img width="1169" height="322" alt="output_54_0" src="https://github.com/user-attachments/assets/36fb4ec5-b345-45dc-932f-0e3a1f39ac40" />
+<img width="563" height="461" alt="output_62_0" src="https://github.com/user-attachments/assets/ea9c1f9b-6a80-4340-88fc-60b507244a67" />
